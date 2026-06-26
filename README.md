@@ -2,8 +2,7 @@
 
 🎯 Cybersecurity yo'nalishida o'rganayotgan mutaxassis
 🌱 Hozir o'rganayapman: Linux, Networking, Python
-🏆 TryHackMe profili: [link]
-📫 Bog'lanish: [email]
+📫 Bog'lanish: salohiddinovdiyorbek829@gmail.com
 
 ## Ko'nikmalarim
 - Python (Telegram bot, SQLite)
