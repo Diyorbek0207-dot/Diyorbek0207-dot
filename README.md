@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salom, men Diyor! 👋
 
-<!--
-**Diyorbek0207-dot/Diyorbek0207-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity yo'nalishida o'rganayotgan mutaxassis
+🌱 Hozir o'rganayapman: Linux, Networking, Python
+🏆 TryHackMe profili: [link]
+📫 Bog'lanish: [email]
 
-Here are some ideas to get you started:
+## Ko'nikmalarim
+- Python (Telegram bot, SQLite)
+- Linux asoslari
+- Axborot xavfsizligi asoslari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Loyihalarim
+- 🤖 Telegram Movie Bot
+- 🌐 Portfolio Website
